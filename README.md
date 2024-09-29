@@ -36,3 +36,12 @@ This project demonstrates a microservices architecture utilizing Apache Kafka to
    ```bash
    git clone https://github.com/akg1998/KafkawithMicroservices.git
    cd Kafka-with-microservices
+2. Using Docker Compose: If you want to use the existing project as-is, you need to run the following commands to bring up the services:
+   ```bash
+   docker-compose up -d
+This command will automatically pull the necessary images defined in your docker-compose.yml file. Ensure that the images for the Delivery Man and End User applications are defined in the docker-compose.yml.
+
+If you are not using Docker for Kafka, make sure you have it running locally or use a managed Kafka service.
+
+Thank you!
+
