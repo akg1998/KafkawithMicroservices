@@ -1,0 +1,3 @@
+com\endUser\config\KafkaConsumerConfig.class
+com\endUser\constants\AppConstants.class
+com\endUser\EndUserAppApplication.class
