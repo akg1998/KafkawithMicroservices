@@ -35,4 +35,4 @@ This project demonstrates a microservices architecture utilizing Apache Kafka to
 1. Clone the repository:
    ```bash
    git clone https://github.com/akg1998/KafkawithMicroservices.git
-   cd KafkawithMicroservices
+   cd Kafka-with-microservices
